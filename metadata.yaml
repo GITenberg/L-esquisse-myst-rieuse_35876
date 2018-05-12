@@ -1,0 +1,28 @@
+_repo: L-esquisse-myst-rieuse_35876
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2011-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35876'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Artists -- Fiction'
+title: L'esquisse mystérieuse
+url: http://www.gutenberg.org/ebooks/35876
